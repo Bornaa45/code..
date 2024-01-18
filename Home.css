@@ -138,10 +138,10 @@ ul {
   position: relative;
   top: 270px;
   text-align: center;
-  left: -114px;
+  left: -130px;
 }
 h1{
-  color: #0022e3;
+  color: #00e32a;
   text-shadow: 0.8px 0.5px black;
   font-size: 5vw;
   animation: color 6s infinite linear;
@@ -156,7 +156,7 @@ h1{
   top: 90px;
   align-items: center;
   border-radius: 500px;
-  left: 190px;
+  left: 25vw;
 }
 .img-prof{
   width: 260px;
@@ -172,12 +172,6 @@ h1{
   position: relative;
   align-items: center;
   border-radius: 500px;
-}
-@keyframes color {
-  0% {color:  #0022e3;}
-  30% {color: #0084ff;}
-  60% {color: #00ffee;}
-  100% {color:#0022e3;}
 }
 .a-up{
   width: 65px;
